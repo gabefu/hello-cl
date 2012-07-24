@@ -3,21 +3,24 @@ hello-cl
 
 Basic Common Lisp project to learn Lisp syntax and lack thereof.
 
+## Todo
+
+Read pages 3-8 in Paradigms of Artificial Intelligence Programming.
+Make a file called `paip1-1.lisp` that, when run, outputs any old thing
+you've learned from those pages.
+
 ## Resources
 
 Don't get intimidated. :)
 
+Aside from googling for tutorials, introductions, etc, 
 Check out the first few chapters in the following books:
 
 - ANSI Common Lisp
 - On Lisp (chapter 2, for instance)
-- Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp
-
-They have introductions to Lispy concepts. Fortunately, Lisp syntax is extremely
-simple. Unfortunately, you can't just type `x = whatever` and go on to the next
-line like in the other languages we've seen up until now.
-
-It's very different.
+- __Paradigms of Artificial Intelligence Programming: Case Studies in 
+  Common Lisp__ (PAIP for short). Actually, this is the least scary
+  for now!
 
 ## Setup
 
